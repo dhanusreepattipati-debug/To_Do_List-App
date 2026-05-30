@@ -61,8 +61,8 @@ Task priority levels
 Due dates and reminders
 Dark/Light mode toggle
 Task categories and filters
-🎯 Learning Outcomes
 
+🎯 Learning Outcomes
 This project demonstrates:
 
 DOM Manipulation
@@ -70,6 +70,7 @@ Event Handling
 Local Storage Implementation
 Responsive Web Design
 JavaScript Functions and Logic
+
 👩‍💻 Author
 
 Pattipati Dhanusree
