@@ -70,6 +70,6 @@ Event Handling
 Local Storage Implementation
 Responsive Web Design
 JavaScript Functions and Logic
-
 👩‍💻 Author
+
 Pattipati Dhanusree
